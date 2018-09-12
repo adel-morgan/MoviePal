@@ -8,5 +8,6 @@ proper dependency injection and self sizing table view cells. In the end, Im sti
 work and I hope that you will feel the same!
 
 Thanks so much for the opportunity,
+
 Adel
 
